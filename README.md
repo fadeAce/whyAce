@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fadeAce/whyAce/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [历史上有名的思想实验](https://github.com/fadeAce/whyAce/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
