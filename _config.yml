@@ -547,6 +547,10 @@ calendar:
   maxResults: 250
 
 # Algolia Search
+algolia:
+  application_id: FX3S7IN7WC
+  index_name:     'fadeAce'
+
 algolia_search:
   enable: true
   hits:
