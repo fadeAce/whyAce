@@ -575,6 +575,9 @@ local_search:
 # Alias: {% extlink text url "title" %}
 exturl: false
 
+gems:
+  - algoliasearch-jekyll
+
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
