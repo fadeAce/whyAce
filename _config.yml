@@ -552,7 +552,7 @@ algolia:
   index_name: fadeAce
 
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
